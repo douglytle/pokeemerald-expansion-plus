@@ -2311,8 +2311,7 @@ bool8 ScrCmd_checkfieldmove(struct ScriptContext *ctx)
             break;
         }
     }
-    //default false
-    return TRUE;
+    return FALSE;
 }
 
 bool8 ScrCmd_addmoney(struct ScriptContext *ctx)

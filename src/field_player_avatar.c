@@ -1547,8 +1547,7 @@ bool8 PartyHasMonWithSurf(void)
                 return TRUE;
         }
     }
-    //default false
-    return TRUE;
+    return FALSE;
 }
 
 bool8 IsPlayerSurfingNorth(void)
