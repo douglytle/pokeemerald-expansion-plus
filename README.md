@@ -6,6 +6,8 @@ This is a WIP emerald decomp hack I am working on
 
 ## Current features:
 
+- Modern gen battle mechanics incl. physical special split
+- Modern gen learnsets/stats/move effects/ability effects
 - Hard level caps at next gym leader's ace
 - EVs disabled
 - IVs are viewable in summary screen
