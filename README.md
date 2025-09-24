@@ -14,6 +14,12 @@ This is a WIP emerald decomp hack I am working on
 - All other HMs are usable provided the associated badge has been earned and the HM item is in the bag, no party mon is required to know the move
 - HM moves are all forgettable
 
+## Planned features:
+
+- Additional QOL features seen in popular hacks such as portable PC, heal party from menu, infinite candy
+- Gym leaders, evil bosses, e4, and select other fights to be revamped and made more difficult
+- MAYBE sprinkle in some fresh encounters / stat or ability changes
+
 # [pokeemerald-expansion credits](CREDITS.md)
 
  [![](https://img.shields.io/github/all-contributors/rh-hideout/pokeemerald-expansion/upcoming)](CREDITS.md)
