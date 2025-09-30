@@ -18,15 +18,25 @@ Pic: Brendan
 Gender: Male
 Music: Male
 
-Buffie (Wobbuffet)
-Brave Nature
+Crungio (Arceus) @ Mega Ring
+Serious Nature
+Ability: Magic Guard
 Level: 100
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 252 Atk / 252 Def / 6 SpA
-- Earthquake
-- Flamethrower
-- Celebrate
-- Celebrate
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+- Boomburst
+- Glacial Lance
+- Volt Tackle
+- Recover
+
+COCKJUICER (Lopunny) (F) @ Lopunnite  
+Ability: Sticky Hold  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Triple Axel  
+- Extreme Speed  
+- Heal Order
 
 === DEBUG_TRAINER_AI ===
 Name: Debugger
