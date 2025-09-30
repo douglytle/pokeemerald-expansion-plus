@@ -19,8 +19,9 @@ This is a WIP emerald decomp hack I am working on
 ## Planned features:
 
 - Additional QOL features seen in popular hacks such as portable PC, heal party from menu, infinite candy
-- Gym leaders, evil bosses, e4, and select other fights to be revamped and made more difficult
-- MAYBE sprinkle in some fresh encounters / stat or ability changes
+- Gym leaders, evil bosses, e4, and many mandatory trainer fights to be revamped and made more difficult
+- Sprinkle in some fresh encounters / stat or ability changes
+- Map edits >:)
 
 # [pokeemerald-expansion credits](CREDITS.md)
 
