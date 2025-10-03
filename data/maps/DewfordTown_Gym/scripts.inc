@@ -282,6 +282,18 @@ DewfordTown_Gym_EventScript_GymStatue::
 	releaseall
 	end
 
+DewfordTown_Gym_EventScript_CustomGymStatue::
+	lockall
+	msgbox DewfordTown_Gym_Text_CustomGymStatue, MSGBOX_DEFAULT
+	releaseall
+	end
+
+DewfordTown_Gym_Text_CustomGymStatue:
+	.string "Crungio 1.\n"
+	.string "Crungio 2.\p"
+	.string "Crungio 3.\n"
+	.string "Crungio 4.$"
+
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
