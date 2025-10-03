@@ -289,10 +289,10 @@ DewfordTown_Gym_EventScript_CustomGymStatue::
 	end
 
 DewfordTown_Gym_Text_CustomGymStatue:
-	.string "Crungio 1.\n"
-	.string "Crungio 2.\p"
-	.string "Crungio 3.\n"
-	.string "Crungio 4.$"
+	.string "PepeLaugh TruckAndBag,\n"
+	.string "Crungio.\p"
+	.string "THIS...\n"
+	.string "is the second gym.$"
 
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
