@@ -27,7 +27,9 @@ LavaridgeTown_Gym_B1F_EventScript_SetEliTempVar::
 LavaridgeTown_Gym_B1F_EventScript_EndSetTrainerTempVars::
 	return
 
+@ Skip this shit buried trainers suck
 LavaridgeTown_Gym_B1F_EventScript_CheckBuryTrainers::
+	goto LavaridgeTown_Gym_B1F_EventScript_EndCheckBuryTrainers
 	goto_if_defeated TRAINER_KEEGAN, LavaridgeTown_Gym_B1F_EventScript_CheckBuryJace
 	setobjectmovementtype LOCALID_KEEGAN, MOVEMENT_TYPE_BURIED
 LavaridgeTown_Gym_B1F_EventScript_CheckBuryJace::

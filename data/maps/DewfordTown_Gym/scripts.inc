@@ -289,10 +289,18 @@ DewfordTown_Gym_EventScript_CustomGymStatue::
 	end
 
 DewfordTown_Gym_Text_CustomGymStatue:
-	.string "PepeLaugh TruckAndBag,\n"
-	.string "Crungio.\p"
-	.string "THIS...\n"
+	.string "THIS...\p"
 	.string "is the second gym.$"
+
+DewfordTown_Gym_EventScript_CustomGymStatue2::
+	lockall
+	msgbox DewfordTown_Gym_Text_CustomGymStatue2, MSGBOX_DEFAULT
+	releaseall
+	end
+
+DewfordTown_Gym_Text_CustomGymStatue2:
+	.string "There is nothing down here lol,\n"
+	.string "Crungio$"
 
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"

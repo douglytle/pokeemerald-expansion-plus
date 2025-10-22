@@ -11,6 +11,7 @@ Route105_OnLoad:
 	end
 
 Route105_CloseRegiEntrance::
+	return
 	setmetatile 9, 19, METATILE_General_RockWall_RockBase, TRUE
 	setmetatile 9, 20, METATILE_General_RockWall_SandBase, TRUE
 	return
