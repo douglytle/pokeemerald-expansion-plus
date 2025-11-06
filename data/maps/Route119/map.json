@@ -210,7 +210,7 @@
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_5",
       "x": 7,
-      "y": 56,
+      "y": 53,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 0,
@@ -511,7 +511,7 @@
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_2",
       "x": 5,
-      "y": 56,
+      "y": 53,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
       "movement_range_x": 1,
