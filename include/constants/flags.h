@@ -43,8 +43,8 @@
 #define TEMP_FLAGS_END   FLAG_TEMP_1F
 #define NUM_TEMP_FLAGS   (TEMP_FLAGS_END - TEMP_FLAGS_START + 1)
 
-#define FLAG_UNUSED_0x020    0x20 // Unused Flag
-#define FLAG_UNUSED_0x021    0x21 // Unused Flag
+#define FLAG_NO_ENCOUNTER    0x20 // Formerly Unused Flag
+#define FLAG_NO_COLLISION    0x21 // Formerly Unused Flag
 #define FLAG_UNUSED_0x022    0x22 // Unused Flag
 #define FLAG_UNUSED_0x023    0x23 // Unused Flag
 #define FLAG_UNUSED_0x024    0x24 // Unused Flag
@@ -660,7 +660,7 @@
 #define FLAG_ITEM_ROUTE_128_1  0x265 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_128_2  0x266 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_128_3  0x267 // Formerly Unused Flag
-#define FLAG_UNUSED_0x268  0x268 // Unused Flag
+#define FLAG_ITEM_ROUTE_129_1  0x268 // Unused Flag
 #define FLAG_UNUSED_0x269  0x269 // Unused Flag
 #define FLAG_UNUSED_0x26A  0x26A // Unused Flag
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
