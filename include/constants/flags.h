@@ -660,8 +660,8 @@
 #define FLAG_ITEM_ROUTE_128_1  0x265 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_128_2  0x266 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_128_3  0x267 // Formerly Unused Flag
-#define FLAG_ITEM_ROUTE_129_1  0x268 // Unused Flag
-#define FLAG_UNUSED_0x269  0x269 // Unused Flag
+#define FLAG_ITEM_ROUTE_129_1  0x268 // Formerly Unused Flag
+#define FLAG_ITEM_ROUTE_129_2  0x269 // Formerly Unused Flag
 #define FLAG_UNUSED_0x26A  0x26A // Unused Flag
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
 #define FLAG_UNUSED_0x26C  0x26C // Unused Flag
