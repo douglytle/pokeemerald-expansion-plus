@@ -49,3 +49,10 @@ Route129_EventScript_Clarence::
 	msgbox Route129_Text_ClarencePostBattle, MSGBOX_AUTOCLOSE
 	end
 
+Route129Island_EventScript_Sign::
+	msgbox Route129Island_Text_Sign, MSGBOX_SIGN
+	end
+
+Route129Island_Text_Sign:
+	.string "EAST TWIN ISLAND\n"
+	.string "“Half a slice of paradise.”$"

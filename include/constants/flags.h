@@ -98,8 +98,8 @@
 #define FLAG_RESCUED_BIRCH                       0x52
 #define FLAG_LEGENDARIES_IN_SOOTOPOLIS           0x53
 
-#define FLAG_MT_PYRE_SHORTCUT_OPEN           0x54  // Set when the new shortcut to Mt. Pyre exterior is opened. Formerly unused
-#define FLAG_UNUSED_0x055                    0x55  // Unused Flag
+#define FLAG_MT_PYRE_SHORTCUT_OPEN           0x54  // Set when the new shortcut to Mt. Pyre exterior is opened. Formerly unused.
+#define FLAG_TWIN_ISLAND_GATE_OPEN           0x55  // Set when the gate in the house on east twin island is opened. Formerly unused.
 
 #define FLAG_HIDE_CONTEST_POKE_BALL          0x56  // Always set after new game, object it hides is added directly
 #define FLAG_MET_RIVAL_MOM                   0x57
@@ -662,7 +662,7 @@
 #define FLAG_ITEM_ROUTE_128_3  0x267 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_129_1  0x268 // Formerly Unused Flag
 #define FLAG_ITEM_ROUTE_129_2  0x269 // Formerly Unused Flag
-#define FLAG_UNUSED_0x26A  0x26A // Unused Flag
+#define FLAG_ITEM_ROUTE_129_3  0x26A // Formerly Unused Flag
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
 #define FLAG_UNUSED_0x26C  0x26C // Unused Flag
 #define FLAG_UNUSED_0x26D  0x26D // Unused Flag

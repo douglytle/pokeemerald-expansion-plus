@@ -246,9 +246,14 @@
 #define METATILE_General_YellowCaveOpen        0x1A9
 
 // gTileset_GenericBuilding
+#define METATILE_GenericBuilding_LIGHT_GREEN_FLOOR       0x229
 #define METATILE_GenericBuilding_TableEdge               0x2F1
 #define METATILE_GenericBuilding_TrickHouse_Door_Closed  0x21B
 #define METATILE_GenericBuilding_TrickHouse_Stairs_Down  0x219
+#define METATILE_GenericBuilding_WALL_BOTTOM             0x310
+#define METATILE_GenericBuilding_WALL_COVERED            0x205
+#define METATILE_GenericBuilding_WALL_MID                0x308
+#define METATILE_GenericBuilding_WALL_TOP                0x300
 
 // gTileset_InsideOfTruck
 #define METATILE_InsideOfTruck_DoorClosedFloor_Bottom  0x21D
