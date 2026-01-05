@@ -665,7 +665,7 @@
 #define FLAG_ITEM_ROUTE_129_3  0x26A // Formerly Unused Flag
 #define FLAG_RECEIVED_ZERAORA  0x26B // Formerly Unused Flag
 #define FLAG_MET_ISLAND_MANIAC  0x26C // Formerly Unused Flag
-#define FLAG_UNUSED_0x26D  0x26D // Unused Flag
+#define FLAG_ITEM_ROUTE_130_1  0x26D // Formerly Unused Flag
 #define FLAG_UNUSED_0x26E  0x26E // Unused Flag
 #define FLAG_UNUSED_0x26F  0x26F // Unused Flag
 #define FLAG_UNUSED_0x270  0x270 // Unused Flag

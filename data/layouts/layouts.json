@@ -2624,7 +2624,7 @@
     {
       "id": "LAYOUT_ROUTE130",
       "name": "Route130_Layout",
-      "width": 80,
+      "width": 88,
       "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",

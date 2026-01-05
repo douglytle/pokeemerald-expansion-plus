@@ -41,6 +41,7 @@ void UpdateMirageRnd(u16 days)
 
 bool8 IsMirageIslandPresent(void)
 {
+    return FALSE; //mirage island check always returns false
     u16 rnd = GetMirageRnd() >> 16;
     int i;
 

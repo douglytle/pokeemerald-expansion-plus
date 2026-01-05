@@ -48,3 +48,9 @@ Route130_EventScript_Santiago::
 	msgbox Route130_Text_SantiagoPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+Route130Island_EventScript_Sign::
+	msgbox Route130Island_Text_Sign, MSGBOX_SIGN
+	end
+
+Route130Island_Text_Sign:
+	.string "WEST TWIN ISLAND$"

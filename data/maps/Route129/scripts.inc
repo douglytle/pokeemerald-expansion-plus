@@ -54,5 +54,4 @@ Route129Island_EventScript_Sign::
 	end
 
 Route129Island_Text_Sign:
-	.string "EAST TWIN ISLAND\n"
-	.string "“Half a slice of paradise.”$"
+	.string "EAST TWIN ISLAND$"
