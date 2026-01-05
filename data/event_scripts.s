@@ -1160,3 +1160,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/dexnav.inc"
 
 	.include "data/maps/Route129_IslandHouse/scripts.inc"
+
+	.include "data/maps/TwinIslandsCave/scripts.inc"
+
+	.include "data/maps/Route129_IslandHouse_2R/scripts.inc"

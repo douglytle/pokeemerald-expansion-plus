@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Route129_IslandHouse/border.bin",
       "blockdata_filepath": "data/layouts/Route129_IslandHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_TWIN_ISLANDS_CAVE",
+      "name": "TwinIslandsCave_Layout",
+      "width": 70,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/TwinIslandsCave/border.bin",
+      "blockdata_filepath": "data/layouts/TwinIslandsCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE129_ISLAND_HOUSE_2R",
+      "name": "Route129_IslandHouse_2R_Layout",
+      "width": 4,
+      "height": 6,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/Route129_IslandHouse_2R/border.bin",
+      "blockdata_filepath": "data/layouts/Route129_IslandHouse_2R/map.bin"
     }
   ]
 }
